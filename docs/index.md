@@ -1,3 +1,8 @@
+---
+layout: default
+title: "pgvector（HNSW）を探索候補の枝刈りで改良してみた"
+---
+
 # pgvector（HNSW）を探索候補の枝刈りで改良してみた
 
 ## はじめに
